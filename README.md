@@ -3,7 +3,7 @@ This repository explores **IDynoMiCS** indvidual-based modeling software for mod
 
 ---
 
-## Command to Run Demo: 
+## Command to Run IDynoMiCS After Downloading: 
 
 ```
 java -jar ~/Downloads/idynomics/iDynoMiCS-2-July-2025/iDynoMiCS-2.0.jar \
