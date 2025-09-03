@@ -1,5 +1,5 @@
 # IDynoMiCS Exploration and Demo 
-This repository explores **IDynoMiCS** indvidual-based modeling software for modeling microbial colonies/biofilms. It includes a Python script to parse XML outputs and summarize agent counts by timestep and a Jupyter notebook to convert per-timestep SVG snapshots into an animated GIF for quick inspection. The goal is to evaluate iDynoMiCS output handling as a stepping stone toward whole-cell / Vivarium workflow for modeling biofilm formation in _E.coli___
+This repository explores **IDynoMiCS** indvidual-based modeling software for modeling microbial colonies/biofilms. It includes a Python script to parse XML outputs and summarize agent counts by timestep and a Jupyter notebook to convert per-timestep SVG snapshots into an animated GIF for quick inspection. The goal is to evaluate iDynoMiCS output handling as a stepping stone toward whole-cell / Vivarium workflow for modeling biofilm formation in _E.coli_.
 
 ---
 
