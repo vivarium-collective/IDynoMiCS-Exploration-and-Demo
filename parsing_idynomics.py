@@ -100,10 +100,8 @@ plt.show()
         #second_agents_00001_00001.pov  second_agents_00001_00001.svg
     #Need POV-RAY --> iDynoMiCS 2.0 called POV-RAY internally (producing these files)
     #It's a vision ray-tracer that generates images from a text-based scene description,
-    #creates videos from sequences of still frames created by POV-Ray
+    #creates videos from sequences of still frames created by POV-Ray - not able to really see
     #Svgwriter and POVwriter are both processManagers in the raw protocol XML file (priority 3)
-
-#Parsing and open these files and graphing them (need to write a loop for both file types)
 
 
 #BELOW is my first attempting at trying to use SVG (CAIRO) and it was not working -- CHATGPT had suggested to switch to Jupyter notebook
