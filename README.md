@@ -12,7 +12,8 @@ java -jar ~/Downloads/idynomics/iDynoMiCS-2-July-2025/iDynoMiCS-2.0.jar \
 ```
 -p specifies the protocol file, -o specifies output file location
 
-
+## Notes on Demo
+This project was a simple introduction/exploration to investigate how IDynoMiCS works as a personal tutorial. Therefore local paths were used and a download of the **bacillis.xml** file from this repository is required prior to running the command above. 
 
 
 ## Repository Content
